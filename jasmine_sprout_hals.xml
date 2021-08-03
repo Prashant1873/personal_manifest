@@ -7,8 +7,8 @@
         <remove-project name="LineageOS/android_hardware_qcom_audio" />
         <remove-project name="LineageOS/android_hardware_qcom_media" />
        <!-- Hals stuff -->
-    <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_sdm660_display" remote="clar" revision="sdm660-4.19" clone-depth="1" />
-    <project path="hardware/qcom-caf/msm8998/media" name="hardware_qcom-caf_sdm660_media" remote="clar" revision="sdm660-4.19" clone-depth="1" />
-    <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_sdm660_audio" remote="clar" revision="sdm660-4.19" clone-depth="1" />
+    <project path="hardware/qcom-caf/sdm660/display" name="hardware_qcom-caf_sdm660_display" remote="clar" revision="sdm660-4.19" clone-depth="1" />
+    <project path="hardware/qcom-caf/sdm660/media" name="hardware_qcom-caf_sdm660_media" remote="clar" revision="sdm660-4.19" clone-depth="1" />
+    <project path="hardware/qcom-caf/sdm660/audio" name="hardware_qcom-caf_sdm660_audio" remote="clar" revision="sdm660-4.19" clone-depth="1" />
   
 </manifest>
