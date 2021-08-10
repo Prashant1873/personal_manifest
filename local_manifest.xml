@@ -15,5 +15,6 @@
         <project path="vendor/xiaomi/sdm660-common" name="android_vendor_xiaomi_sdm660_common_4.19" remote="org" revision="11" clone-depth="1" />
         <project path="vendor/xiaomi/wayne-common" name="android_vendor_xiaomi_wayne_common_4.19" remote="org" revision="11" clone-depth="1" />
         <project path="vendor/xiaomi/MiuiCamera" name="android_vendor_xiaomi_MiuiCamera" remote="clarence" revision="master" clone-depth="1" />
+        <project path="recovery/twrp/xiaomi/jasmine_sprout" name="android_recovery_twrp" remote="clarence" revision="jasmine_sprout" clone-depth="1" />
 
 </manifest>
