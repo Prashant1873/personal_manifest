@@ -3,10 +3,6 @@
 	<remote  name="clar"
          	 fetch="https://github.com/clarencelol" />
 
-	  
-	<remove-project path="hardware/qcom-caf/msm8998/display" />
-        <remove-project path="hardware/qcom-caf/msm8998/media" />
-        <remove-project path="hardware/qcom-caf/msm8998/audio" />
        <!-- Hals stuff -->
     <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_sdm660_display" remote="clar" revision="sdm660-4.19" clone-depth="1" />
     <project path="hardware/qcom-caf/msm8998/media" name="hardware_qcom-caf_sdm660_media" remote="clar" revision="sdm660-4.19" clone-depth="1" />
